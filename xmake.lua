@@ -15,7 +15,7 @@ add_rules("plugin.compile_commands.autoupdate", {outputdir = ".vscode"})
 --包依赖
 add_requires("tbb", "glm", "assimp", "stb")
 
-target("Fermi")
+target("Tesla")
     set_kind("binary")
 
     add_packages("tbb", "glm", "assimp", "stb")

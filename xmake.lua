@@ -1,5 +1,5 @@
 
-set_project("Fermi")
+set_project("Tesla")
 set_version("0.1.0")
 
 --编译设置
